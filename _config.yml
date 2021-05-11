@@ -1,0 +1,17 @@
+#URL
+host: 127.0.0.1
+url: http://127.0.0.1:4000
+baseurl: 
+
+
+#博客名字和描述自定义
+title: PP
+description: 一点感想
+
+#个人信息
+github: 67151
+email:  
+
+#下面的是配置和插件，不需要改
+permalink: none
+plugins: [jekyll-sitemap]
